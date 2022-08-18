@@ -9,4 +9,5 @@ vetor <-c(1,2,3,5,7)
 regCarros <- lm(mpg ~ ., mtcars)
 
 # complexidade do objeto
-str(mtcars)
+str(regCarros)
+
